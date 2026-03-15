@@ -4,4 +4,4 @@ Formar grupos de trabajo para proyecto de la asignatura y definir la propuesta d
 
 ## Propuesta de propyecto
 
-Sistema de Inventario para tiendita.
+Sistema de gestión de pequeña empresa de productos varios.
