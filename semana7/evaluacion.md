@@ -2,7 +2,7 @@
 ## Primer Parcial (50%)
 ### Resuelto
 
-**Indicaciones:** El parcial consta de **5 ítems**, que responderá en cada planteamiento. Está diseñado para ser resuelto de manera individual en 100 minutos. Lean y resuelvan correctamente la evaluación, según lo estudiado y discutido en clase, sobre tipos de sistemas informáticos, Metodologías de desarrollo de Software y Systems Development Life Cycle. **Escriba con lapicero azul y letra legible los ítems donde se requiere de su escritura.**
+**Indicaciones:** El Parcial consta de **5 ítems**, que responderá en cada planteamiento. Está diseñado para ser resuelto de manera individual en 100 minutos. Lean y resuelvan correctamente la evaluación, según lo estudiado y discutido en clase, sobre tipos de sistemas informáticos, Metodologías de desarrollo de Software y Systems Development Life Cycle. **Escriba con lapicero azul y letra legible los ítems donde se requiere de su escritura.**
 
 ---
 
